@@ -1,0 +1,1 @@
+Use this folder to save your files in the corresponding category
